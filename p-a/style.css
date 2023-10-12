@@ -2,7 +2,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 85vh;
+    min-height: 100vh;
     background-image: url('https://previews.123rf.com/images/alekstaurus/alekstaurus2001/alekstaurus200102239/137465815-afghanistan-and-palestine-two-folded-flags-together.jpg');
     background-size: cover;
     background-position: center;
@@ -20,8 +20,6 @@ body {
 }
 
 .qr-image {
-    /* width: 300px;
-    height: auto; */
     min-height: 50vh;
     margin-bottom: 20px;
 }
